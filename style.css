@@ -1,3 +1,16 @@
-body{
-    background-color: antiquewhite;
+body {
+    background-color: #1212ff;
 }
+
+
+p {
+    width: 250px;
+    height: 100px;
+    background-color: #ff12ff;
+    border: solid;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}      
